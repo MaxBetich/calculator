@@ -21,7 +21,7 @@ window.alert("The sum of your numbers equals: "
   + add(number1,number2) 
   + ". The subtraction of your numbers equals: " 
   + subtract(number1, number2)  
-  + ". The multiplication of  your  numbers equals: " 
+  + ". The multiplication of  your numbers equals: " 
   + multiply(number1, number2) 
   + ". The division of your numbers equals: " 
   + divide(number1, number2) 
